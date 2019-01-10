@@ -1,6 +1,6 @@
 """ 
 	Author: Steven Tran
-	Date: June 27, 2018
+	Date: January 10, 2019
 	File Description: This program is a classic snake game coded in Python using
 	the curses module to assist in creating new windows and registering key 
 	presses as input from the user to count as actions within the game.
